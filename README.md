@@ -64,5 +64,5 @@ The main logic of the application is in the `main.py` file. Here's a brief expla
 
 ## Acknowledgments
 
-- [PyPI Python Package Index -> PyQt6](https://pypi.org/project/PyQt6/)
+- [PyPI Python Package Index -> PyQt6](https://pypi.org/project/PyQt6/) for installation and package info
 - [PyQt6 documentation](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
