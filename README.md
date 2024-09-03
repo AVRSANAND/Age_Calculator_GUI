@@ -60,9 +60,3 @@ The main logic of the application is in the `main.py` file. Here's a brief expla
 ## Example
 
 ![image](https://github.com/user-attachments/assets/4efa5cc7-04bd-4fee-be89-70d254a769fe)
-
-
-## Acknowledgments
-
-- [PyPI Python Package Index -> PyQt6](https://pypi.org/project/PyQt6/) for installation and package info
-- [PyQt6 documentation](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
